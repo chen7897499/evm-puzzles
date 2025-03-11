@@ -1,3 +1,5 @@
+## Solution
+
 ### Puzzle 1
 - **Callvalue:** 8
 
